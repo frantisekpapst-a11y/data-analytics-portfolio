@@ -5,7 +5,7 @@
 Cílem této case study je analyzovat hodnoty zákaznických objednávek a identifikovat:
 - střední hodnoty,
 - variabilitu dat,
-- extrémní hodnoty (outliers),
+- extrémní hodnoty, tzv. outliers,
 - tvar distribuce dat.
 
 Projekt se zároveň zaměřuje na:
