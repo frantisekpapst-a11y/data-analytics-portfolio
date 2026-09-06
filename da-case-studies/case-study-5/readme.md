@@ -252,9 +252,3 @@ V rámci case study byla vytvořena také SQL analytická vrstva nad vyčištěn
 - CTE výrazně zlepšuje čitelnost komplexnějších query.
 - JOIN logika závisí na business kontextu.
 - Stejný analytický problém lze řešit více SQL přístupy.
-
----
-
-# Poznámka
-Projekt slouží jako studijní case study v rámci learning path datové analytiky.
-

@@ -13,7 +13,26 @@ V této části byl použit již připravený a vyčištěný dataset z předcho
 
 ---
 
-# Použité nástroje
+## Struktura projektu
+
+```text
+data-analytics-workspace/
+│
+├── excel/
+│   ├── ecommerce_sales_EDA_SDA_2025_output.xlsx
+│
+├── screenshots/
+│   ├── eda_analysis.png
+│   ├── sda_analysis.png
+│   ├── processed_dataset.png
+│   ├── summary.png
+│
+└── README.md
+```
+
+---
+
+## Použité nástroje
 
 - MS Excel
 - Kontingenční tabulky
@@ -22,9 +41,9 @@ V této části byl použit již připravený a vyčištěný dataset z předcho
 
 ---
 
-# Obsah projektu
+## Obsah projektu
 
-## 1. EDA – Exploratory Data Analysis
+### 1. EDA – Exploratory Data Analysis
 
 Byla vytvořena exploratorní analýza ecommerce objednávek pomocí kontingenční tabulky.
 
@@ -37,7 +56,7 @@ Analyzováno bylo:
 
 ---
 
-# EDA výsledky
+### EDA výsledky
 
 | Produkt | Průměrné revenue | Počet objednávek |
 |---|---:|---:|
@@ -48,7 +67,7 @@ Analyzováno bylo:
 
 ---
 
-# Závěry EDA
+### Závěry EDA
 
 - Notebook generuje výrazně vyšší tržbu než ostatní produkty.
 - Jedná se však pouze o jednu objednávku.
@@ -57,7 +76,7 @@ Analyzováno bylo:
 
 ---
 
-# 2. SDA – Statistical Data Analysis
+## 2. SDA – Statistical Data Analysis
 
 Byl proveden pokus o t-test mezi:
 
@@ -72,7 +91,7 @@ Dvouvýběrový t-test s nerovností rozptylů
 
 ---
 
-# Výsledek SDA
+### Výsledek SDA
 
 T-test nebylo možné korektně provést, protože skupina Notebook obsahovala pouze jednu hodnotu.
 
@@ -84,7 +103,7 @@ Pro statistický test je potřeba více pozorování v obou skupinách, aby bylo
 
 ---
 
-# Business interpretace
+## Business interpretace
 
 Objednávka notebooku za 125 000 Kč byla statisticky výrazně odlišná od ostatních objednávek.
 
@@ -106,9 +125,9 @@ Může se jednat například o:
 
 ---
 
-# Klíčové poznatky
+## Klíčové poznatky
 
-## Technické dovednosti
+### Technické dovednosti
 
 - kontingenční tabulky
 - EDA
@@ -118,7 +137,7 @@ Může se jednat například o:
 
 ---
 
-# Analytické myšlení
+## Analytické myšlení
 
 Tato case study ukázala důležitý princip:
 
@@ -133,26 +152,7 @@ Stejně důležité jako samotný výpočet je:
 
 ---
 
-# Struktura projektu
-
-```text
-data-analytics-workspace/
-│
-├── excel/
-│   ├── ecommerce_sales_EDA_SDA_2025_output.xlsx
-│
-├── screenshots/
-│   ├── eda_analysis.png
-│   ├── sda_analysis.png
-│   ├── processed_dataset.png
-│   ├── summary.png
-│
-└── README.md
-```
-
----
-
-# Screenshots
+## Screenshots
 
 Projekt obsahuje screenshoty:
 
@@ -160,10 +160,3 @@ Projekt obsahuje screenshoty:
 - SDA analýzy
 - finálního datasetu
 - summary závěrů
-
----
-
-# Autor
-
-František Papst  
-Learning Journey – Data Analytics

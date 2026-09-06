@@ -1,6 +1,6 @@
 # Case Study 4 - Retail Sales & Marketing Analysis
 
-## 📌 Přehled projektu
+## Přehled projektu
 
 Tato case study se zaměřuje na exploratorní analýzu maloobchodních prodejů a výkonu marketingových kampaní během roku 2025.
 
@@ -17,7 +17,7 @@ Projekt vznikl jako součást mé learning journey v oblasti datové analytiky.
 
 ---
 
-# 📂 Struktura projektu
+## Struktura projektu
 
 ```text
 case-study-4/
@@ -41,7 +41,7 @@ case-study-4/
 
 ---
 
-# 🛠 Použité nástroje
+## Použité nástroje
 
 - Microsoft Excel
 - Kontingenční tabulky
@@ -51,9 +51,9 @@ case-study-4/
 
 ---
 
-# 📊 Oblasti analýzy
+## Oblasti analýzy
 
-## 1. Analýza tržeb a zisku
+### 1. Analýza tržeb a zisku
 
 Analyzováno bylo:
 
@@ -62,7 +62,7 @@ Analyzováno bylo:
 - revenue podle kategorií produktů,
 - vývoj revenue v čase.
 
-### Hlavní zjištění
+#### Hlavní zjištění
 
 - Praha generovala nejvyšší revenue i profit.
 - Notebooky představují hlavní business segment.
@@ -71,7 +71,7 @@ Analyzováno bylo:
 
 ---
 
-# 📈 Analýza sezónnosti
+## Analýza sezónnosti
 
 Analýza odhalila výraznou sezónnost:
 
@@ -80,13 +80,13 @@ Analýza odhalila výraznou sezónnost:
 - Black Friday efekt v listopadu,
 - výrazný vrchol v prosinci.
 
-### Business interpretace
+#### Business interpretace
 
 Poptávka zákazníků výrazně rostla během vánoční sezóny, zejména u prémiových notebooků a elektroniky.
 
 ---
 
-# 📉 Detekce outlierů (IQR metoda)
+## Detekce outlierů (IQR metoda)
 
 Dataset byl analyzován pomocí IQR metody:
 
@@ -96,7 +96,7 @@ Dataset byl analyzován pomocí IQR metody:
 - dolní mez,
 - horní mez.
 
-### Zjištění
+#### Zjištění
 
 Bylo identifikováno několik velmi velkých objednávek, které představují outliery.
 
@@ -110,7 +110,7 @@ Distribuce dat je pozitivně vychýlená, protože malé množství velmi vysok�
 
 ---
 
-# 📣 Analýza marketingových kampaní
+## Analýza marketingových kampaní
 
 Výkon marketingu byl vyhodnocován pomocí:
 
@@ -118,7 +118,7 @@ Výkon marketingu byl vyhodnocován pomocí:
 - Conversion Rate,
 - ROAS (Return On Ad Spend).
 
-### Hlavní zjištění
+#### Hlavní zjištění
 
 - Email kampaně dosahovaly nejvyššího ROAS.
 - Google Ads generovaly nejvyšší celkové tržby.
@@ -127,7 +127,7 @@ Výkon marketingu byl vyhodnocován pomocí:
 
 ---
 
-# 📚 Procvičené dovednosti
+## Procvičené dovednosti
 
 V rámci projektu jsem si procvičil:
 
@@ -141,21 +141,9 @@ V rámci projektu jsem si procvičil:
 
 ---
 
-# 🚀 Další plánovaný rozvoj projektu
+### Poznámky k projektu
 
-Plánované rozšíření projektu:
-
-- dashboard v Power BI,
-- SQL verze analýzy,
-- Python/pandas analýza,
-- pokročilejší vizualizace,
-- automatizovaný reporting.
-
----
-
-# 📝 Poznámky k projektu
-
-## Co jsem si procvičil
+### Co jsem si procvičil
 
 - kontingenční tabulky,
 - IQR metodu,
@@ -164,14 +152,14 @@ Plánované rozšíření projektu:
 - práci se sezónností,
 - základní statistickou analýzu.
 
-## Co bylo nejtěžší
+### Co bylo nejtěžší
 
 - interpretace outlierů,
 - sezónnost tržeb,
 - správné čtení KPI,
 - business interpretace výsledků.
 
-## Co chci zlepšit
+### Co chci zlepšit
 
 - Power Query,
 - vizualizace,
@@ -179,9 +167,3 @@ Plánované rozšíření projektu:
 - dashboarding,
 - Power BI,
 - Python analytiku.
-
----
-
-# 👨‍💻 Autor
-
-František Papst

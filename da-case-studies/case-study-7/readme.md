@@ -1,6 +1,6 @@
-# 📊 Case Study 07 – AI Assisted Analytics
+# Case Study 07 – AI Assisted Analytics
 
-## 📌 Popis projektu
+## Popis projektu
 
 Tato case study je zaměřena na využití AI v datové analytice v kombinaci s Excelem.  
 Cílem projektu bylo ověřit, jak může AI pomoci při:
@@ -15,16 +15,7 @@ Součástí projektu bylo také kritické vyhodnocení AI výstupů a jejich ná
 
 ---
 
-# 🛠 Použité nástroje
-
-- Microsoft Excel
-- Kontingenční tabulky
-- ChatGPT
-- Základní business reporting
-
----
-
-# 📂 Struktura projektu
+## Struktura projektu
 
 ```text
 case-study-7/
@@ -44,9 +35,18 @@ case-study-7/
 
 ---
 
-# 📈 Obsah analýzy
+## Použité nástroje
 
-## 1. Data Cleaning
+- Microsoft Excel
+- Kontingenční tabulky
+- ChatGPT
+- Základní business reporting
+
+---
+
+## Obsah analýzy
+
+### 1. Data Cleaning
 
 Byla provedena základní standardizace datasetu:
 
@@ -57,7 +57,7 @@ Byla provedena základní standardizace datasetu:
 
 ---
 
-## 2. Sentiment Analysis
+### 2. Sentiment Analysis
 
 Recenze zákazníků byly pomocí AI rozděleny do kategorií:
 
@@ -73,7 +73,7 @@ Součástí projektu byla také validace AI interpretace.
 
 ---
 
-## 3. Business Analysis
+### 3. Business Analysis
 
 Byla provedena základní business analýza produktů:
 
@@ -84,7 +84,7 @@ Byla provedena základní business analýza produktů:
 
 ---
 
-## 4. Trend Analysis
+### 4. Trend Analysis
 
 Na základě měsíčního revenue byl vyhodnocen:
 
@@ -94,7 +94,7 @@ Na základě měsíčního revenue byl vyhodnocen:
 
 ---
 
-## 5. AI Risk Review
+### 5. AI Risk Review
 
 Součástí projektu bylo také kritické zhodnocení AI výstupů.
 
@@ -109,20 +109,7 @@ Projekt ukázal, že AI může výrazně urychlit analytickou práci, ale finál
 
 ---
 
-# 📌 Lessons Learned
-
-- AI může efektivně pomoci s datovou analytikou.
-- Human review je stále velmi důležitý.
-- Malý dataset výrazně omezuje sílu závěrů.
-- Business kontext je klíčový pro správnou interpretaci dat.
-- Analytik musí umět rozlišovat mezi:
-  - indikací trendu,
-  - hypotézou,
-  - statisticky potvrzeným závěrem.
-
----
-
-# 📷 Výstupy projektu
+## Výstupy projektu
 
 Projekt obsahuje:
 
@@ -130,9 +117,3 @@ Projekt obsahuje:
 - sentiment analýzu,
 - business report v PDF,
 - trend analýzu revenue.
-
----
-
-# ⚠️ Poznámka
-
-Projekt používá pouze anonymizovaná a ukázková data určená pro studijní účely.
