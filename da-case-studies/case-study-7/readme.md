@@ -2,7 +2,8 @@
 
 ## Popis projektu
 
-Tato case study je zaměřena na využití AI v datové analytice v kombinaci s Excelem.  
+Tato case study je zaměřena na využití AI v datové analytice v kombinaci s Excelem.
+  
 Cílem projektu bylo ověřit, jak může AI pomoci při:
 
 - čištění dat,
