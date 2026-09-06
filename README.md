@@ -241,200 +241,38 @@ Použité koncepty:
 
 # 🧩 Data Analytics Skills
 
-## Exploratory Data Analysis
+Portfolio pokrývá praktickou práci s datovou analytikou od kontroly dat až po business interpretaci výsledků.
 
-Portfolio zahrnuje práci s EDA jako prvním systematickým krokem při analýze datasetu.
+Hlavní oblasti:
 
-Typický postup:
-
-```text
-structure
-→ data quality
-→ distributions
-→ descriptive statistics
-→ relationships
-→ outliers
-→ hypotheses
-```
-
-EDA slouží zejména pro:
-
-- orientaci v datasetu,
-- identifikaci trendů,
-- hledání neobvyklých hodnot,
-- tvorbu dalších analytických otázek,
-- kontrolu před další statistickou nebo business analýzou.
-
----
-
-## Descriptive & Statistical Analysis
-
-Prakticky pokryté oblasti:
-
-- průměr,
-- medián,
-- variance,
-- směrodatná odchylka,
-- kvartily,
-- distribuce,
+- Exploratory Data Analysis (EDA),
+- descriptive statistics,
+- Statistical Data Analysis (SDA),
 - outliers,
 - korelace,
 - statistická významnost,
-- t-test,
-- p-hodnota.
+- t-test a p-hodnota,
+- data cleaning a validation,
+- missing values a duplicity,
+- SQL a relační databázové myšlení,
+- business reporting a KPI,
+- diagnostic analytics,
+- práce s hypotézami,
+- business interpretace,
+- AI-assisted analytics,
+- validace AI výstupů.
 
-Důležitý princip:
-
-```text
-statistical significance
-≠
-automatic business significance
-```
-
-Statistický výsledek je vždy nutné interpretovat v kontextu dat a business problému.
-
----
-
-## Data Cleaning & Validation
-
-Repozitář zahrnuje práci s typickými problémy v datech:
-
-- missing values,
-- duplicate records,
-- nekonzistentní textové hodnoty,
-- chybné datové typy,
-- nevalidní hodnoty,
-- standardizace,
-- anonymizace,
-- validace dat.
-
-Princip:
+Důraz je kladen na:
 
 ```text
 Data Quality
-→ Analysis Quality
-→ Decision Quality
-```
-
-Analýza začíná kontrolou, zda jsou data dostatečně kvalitní pro zamýšlený účel.
-
----
-
-## SQL & Databases
-
-Součástí portfolia je práce s databázovým a SQL mindsetem.
-
-Pokryté koncepty zahrnují například:
-
-```sql
-SELECT
-WHERE
-GROUP BY
-HAVING
-JOIN
-IN
-EXISTS
-CTE
-```
-
-SQL je využíváno pro:
-
-- výběr dat,
-- filtrování,
-- agregaci,
-- spojování tabulek,
-- analytické dotazy,
-- porovnávání různých způsobů řešení.
-
-Důraz je kladen nejen na syntax, ale také na správnou logiku dotazu a interpretaci výsledku.
-
----
-
-## Business Reporting & KPI Thinking
-
-Portfolio pracuje s principem:
-
-```text
-Data
-→ Metric
-→ Insight
+→ Analysis
+→ Validation
+→ Interpretation
 → Business Meaning
 ```
 
-Analytické výstupy jsou posuzovány podle toho, zda:
-
-- odpovídají na business otázku,
-- používají vhodnou metriku,
-- ukazují trend nebo problém,
-- mají srozumitelnou interpretaci,
-- podporují rozhodování.
-
-Typické oblasti:
-
-- revenue,
-- orders,
-- customer behavior,
-- product performance,
-- marketing performance,
-- KPI comparisons,
-- business trends.
-
----
-
-## Diagnostic Analytics
-
-Vedle deskriptivního pohledu jsou v projektech využívány také diagnostické otázky:
-
-```text
-Co se stalo?
-→ Proč se to mohlo stát?
-```
-
-Použité přístupy zahrnují:
-
-- segmentaci,
-- porovnávání skupin,
-- korelace,
-- filtrování,
-- statistické testování,
-- hledání možných faktorů změny.
-
-Důležitou součástí je odlišit:
-
-```text
-correlation
-≠
-causation
-```
-
----
-
-## AI-Assisted Analytics
-
-AI je využívána jako podpůrný analytický nástroj.
-
-Pokryté oblasti:
-
-- AI-assisted EDA,
-- generování analytických hypotéz,
-- sentiment analysis,
-- trend analysis,
-- forecasting,
-- business reporting,
-- AI output review,
-- risk review,
-- validace výsledků.
-
-Princip:
-
-```text
-AI suggestion
-→ validation
-→ analytical judgment
-→ final interpretation
-```
-
-AI výstup není automaticky považován za správný analytický závěr.
+Detailní koncepty, příklady a poznámky jsou součástí cheatsheetu, examples a jednotlivých case studies.
 
 ---
 
