@@ -2,7 +2,7 @@
 
 ## Přehled projektu
 
-Tato case study se zaměřuje na exploratorní analýzu maloobchodních prodejů a výkonu marketingových kampaní během roku 2025.
+Tato case study se zaměřuje na exploratorní analýzu maloobchodních prodejů a výkonu marketingových kampaní.
 
 Cílem analýzy bylo identifikovat:
 
