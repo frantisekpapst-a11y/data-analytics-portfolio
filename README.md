@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Portfolio zaměřené na **datovou analytiku, business reporting, statistické základy, SQL, data quality a analytické workflow**.
+Portfolio zaměřené na **obecnou datovou analytiku, business reporting, statistiku, data quality a analytické workflow**.
 
 Repozitář obsahuje praktické case studies, analytické příklady a referenční materiály zaměřené na práci s daty od jejich struktury a validace přes exploratory a statistical analysis až po business interpretaci a AI-assisted analytics.
 
@@ -9,7 +9,6 @@ Hlavní oblasti:
 - exploratory data analysis (EDA),
 - statistical data analysis (SDA),
 - data cleaning a validation,
-- SQL a relační databázové myšlení,
 - business reporting,
 - KPI a analytické otázky,
 - interpretace dat,
@@ -22,7 +21,7 @@ Hlavní oblasti:
 # 📂 Struktura repozitáře
 
 ```text
-data-analytics-portfolio/
+da-data-analytics-portfolio/
 │
 ├── da-case-studies/
 │   ├── case-study-1.md
