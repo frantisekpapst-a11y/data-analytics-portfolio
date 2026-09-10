@@ -422,20 +422,3 @@ NumPy
 ```
 
 Každý nástroj je používán podle role, pro kterou je v analytickém procesu nejvhodnější.
-
----
-
-# 📈 Další rozvoj
-
-Portfolio je dále rozšiřováno prostřednictvím komplexnějších projektů, které propojují více analytických vrstev.
-
-Navazující oblasti zahrnují například:
-
-- SQL + Python analytické workflow,
-- API a externí datové zdroje,
-- automatizaci,
-- větší datasety,
-- pokročilejší statistickou analýzu,
-- Power BI reporting,
-- end-to-end analytické projekty,
-- AI-assisted analytics workflow.
